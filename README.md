@@ -32,7 +32,7 @@
  
 4. Run Local Server
  - `$ python manage.py runserver`
- - open [http://localhost:8000/](http://localhost:8000/)
+ - open [http://localhost:8000/](http://localhost:8000/) (`127.0.0.1` does not work)
  - view logs and debug as needed
 
 5. Run Worker Services
