@@ -8,6 +8,7 @@
  - pip 
  - [virtualenv](https://virtualenv.pypa.io/en/stable/installation/) 
  - [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/install.html)
+ - if connecting to Postgres: `postgresql-server-dev-x.x`
  - run commands to create virtual env
     ```
     $ mkvirtualenv --python=/usr/local/bin/python3 ITT`
