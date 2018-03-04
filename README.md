@@ -6,6 +6,7 @@
 1. Install Prerequisites
  - python3.5 
  - pip 
+ - [mysqlclient prerequisites](https://github.com/PyMySQL/mysqlclient-python#install) (`sudo apt-get install python-dev libmysqlclient-dev python3-dev`)
  - [virtualenv](https://virtualenv.pypa.io/en/stable/installation/) 
  - [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/install.html)
  - run commands to create virtual env
